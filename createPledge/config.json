@@ -1,0 +1,6 @@
+{
+    "host"     : "crowdappdb.cnr2rq9hwxml.us-east-1.rds.amazonaws.com",
+    "user"     : "admin",
+    "password" : "s0ftwAre3nG",
+    "database" : "info"
+}
